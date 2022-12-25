@@ -1,7 +1,14 @@
 # Data Structures and Algorithms Using Java
 
 - [DSA Using Java](#dsa-using-java)
+  - [Announcements](#announcements)
   - [Schedule](#schedule)
+
+## Announcements
+
+<script>
+  document.write('javascript works!');
+</script>
 
 ## Schedule
 
