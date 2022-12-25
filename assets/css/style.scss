@@ -1,9 +1,13 @@
----
----
+--- 
+--- 
 
 @import "{{ site.theme }}";
+
 
 footer {
   display: none;
 }
 
+.inner {
+  max-width: 75%;
+}
