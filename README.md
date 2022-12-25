@@ -18,7 +18,7 @@
     var minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
     var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
 
-    document.getElementById("time").innerHTML = seconds + "s ";
+    document.getElementById("time").innerHTML = '- The training starts in ' + days + ' days ' + hours + ' hours ' + minutes + ' minutes ' + seconds + ' seconds ';
   },1000);
 </script>
 <div id='time'></div>
