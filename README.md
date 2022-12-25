@@ -5,13 +5,13 @@
 
 ## Schedule
 
-| Agenda                                                    | Date and Time | Date and Time     | Training Venue | Tools Used                   |
-| --------------------------------------------------------- | ------------- | ----------------- | -------------- | ---------------------------- |
-| Introduction and Abstract Data Types, Asymptotic Analysis | 02.01.2023    | 9.30am to 12.30am | VM Hall        | Github, Slides, Google Form  |
-| Arrays and Recursion                                      | 03.01.2023    | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
-| Linked Lists - Introduction                               | 04.01.2023    | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
-| Singly Linked Lists                                       | 05.01.2023    | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
-| Doubly Linked Lists and Circularly Linked Lists           | 06.01.2023    | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
+| Agenda                                                    | Date       | Time              | Training Venue | Tools Used                   |
+| --------------------------------------------------------- | ---------- | ----------------- | -------------- | ---------------------------- |
+| Introduction and Abstract Data Types, Asymptotic Analysis | 02.01.2023 | 9.30am to 12.30am | VM Hall        | Github, Slides, Google Form  |
+| Arrays and Recursion                                      | 03.01.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
+| Linked Lists - Introduction                               | 04.01.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
+| Singly Linked Lists                                       | 05.01.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
+| Doubly Linked Lists and Circularly Linked Lists           | 06.01.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
 
 <!-- ## Pattern of the Test
 
