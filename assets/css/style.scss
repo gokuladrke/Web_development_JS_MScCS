@@ -8,10 +8,10 @@ footer {
   display: none;
 }
 
-.page-content {
-  max-width: 100%;
-}
-
 header {
   display: none;
+}
+
+.page {
+  width: calc(100% - #{$right-sidebar-width-narrow});
 }
