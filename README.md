@@ -7,7 +7,7 @@
 ## Announcements
 
 <script>
-  var countDownDate = new Date("Jul 25, 2021 16:37:52").getTime();
+  var countDownDate = new Date("Jan 02, 2023 09:30:00").getTime();
   var myfunc = setInterval(function() {
     var now = new Date().getTime();
     var timeleft = countDownDate - now;
@@ -17,9 +17,11 @@
     var hours = Math.floor((timeleft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
     var minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
     var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
+
+    document.getElementById("time").innerHTML = seconds + "s ";
   },1000);
-  document.write(days);
 </script>
+<div id='time'></div>
 
 ## Schedule
 
