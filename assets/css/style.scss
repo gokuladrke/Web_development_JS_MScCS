@@ -1,5 +1,14 @@
 @import "{{ site.theme }}";
 
-// footer {
-//   display: none;
-// }
+footer {
+  display: none;
+}
+
+header {
+  display: none;
+}
+
+.inner {
+  max-width: 75%;
+  float: left 
+}
