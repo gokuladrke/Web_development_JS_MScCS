@@ -24,7 +24,6 @@
 <ul>
   <li id='time'></li>
   <li markdown = "1">If you want to ask anything related to the training sessions, please make use of the [comment](#write-your-comments-below) section in the end of the page
-</ul>
 
 ## Schedule
 
