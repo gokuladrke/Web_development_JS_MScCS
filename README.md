@@ -22,6 +22,7 @@
   },1000);
 </script>
 <div id='time'></div>
+- If you want to ask anything related to the training sessions, please make use of the [comment](#write-your-comments-below) section in the end of the page
 
 ## Schedule
 
@@ -40,6 +41,8 @@
 | Programming Logic | 10 Questions | 15 Mins |
 | Hands-On Coding   | 1 Question   | 15 Mins |
 | Hands-On Coding   | 1 Questions  | 30 Mins | -->
+
+## Write your comments below
 
 <script 
         async
