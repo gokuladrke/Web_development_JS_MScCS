@@ -21,8 +21,10 @@
     document.getElementById("time").innerHTML = '- The Training starts in ' + days + ' days ' + hours + ' hours ' + minutes + ' minutes ' + seconds + ' seconds <br /> <br />';
   },1000);
 </script>
-<div id='time'></div>
-- If you want to ask anything related to the training sessions, please make use of the [comment](#write-your-comments-below) section in the end of the page
+<ul>
+  <li id='time'></li>
+  <li>If you want to ask anything related to the training sessions, please make use of the [comment](#write-your-comments-below) section in the end of the page</li>
+</ul>
 
 ## Schedule
 
