@@ -21,11 +21,9 @@
     document.getElementById("time").innerHTML = 'The Training starts in ' + days + ' days ' + hours + ' hours ' + minutes + ' minutes ' + seconds + ' seconds <br /> <br />';
   },1000);
 </script>
-<div>
-  <ul>
-    <li id='time'>
-  </ul>
-</div>
+<ul>
+  <li id='time'>
+</ul>
 
 - Please make use of the [comment](#write-your-comments-below) section in the end of the page for any doubts/clarifications needed related to the training.
 - The training page will have everything related to the training from schedules to quizzes.
