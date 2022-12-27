@@ -24,7 +24,7 @@
 <ul>
   <li id='time'>
   <li markdown = "1">Please make use of the [comment](#write-your-comments-below) section in the end of the page for any doubts/clarifications needed related to the training.
-  <li>The training page will have everything related to the training from schedules to quizzes.
+  <li markdown = "0">The training page will have everything related to the training from schedules to quizzes.
 </ul>
 
 ## Schedule
