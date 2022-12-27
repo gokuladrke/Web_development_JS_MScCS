@@ -41,6 +41,26 @@
 | Singly Linked Lists                                       | 05.01.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
 | Doubly Linked Lists and Circularly Linked Lists           | 06.01.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
 
+## January 1
+
+- 9.30am to 11.00am
+
+  - `[5 mins]` Faculty Introduction & Setting up the Stage
+  - `[5 mins]` How to use the Training page?
+  - `[5 mins]` Github Registration and Joining slack for communication!
+  - `[15 mins]` Variables and Data Types - Primitive and User-Defined
+  - `[15 mins]` Introduction - Data Structures, Abstract Data Types
+  - `[30 mins]` What is an Algorithm? Asymptotic Notations and its Types
+  - `[15 mins]` Q & A
+
+- 11.00 am to 11.15am `[15 mins - Tea Break & Refreshments]`
+
+- 11.15am to 12.30pm
+  - `[15 mins]` Representing an algorithm as a Pseudocode
+  - `[30 mins]` Pseudocode Example - Fibonacci Series
+  - `[15 mins]` Q & A
+  - `[15 mins]` Test your understanding - Quiz
+
 <!-- ## Pattern of the Test
 
 | Section           | Questions    | Time    |
