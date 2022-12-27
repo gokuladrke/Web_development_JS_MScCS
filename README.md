@@ -3,6 +3,7 @@
 - [DSA Using Java](#dsa-using-java)
   - [Announcements](#announcements)
   - [Schedule](#schedule)
+  - [Session - 1 Contents](#january-1)
 
 ## Announcements
 
