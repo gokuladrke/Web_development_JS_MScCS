@@ -8,7 +8,7 @@
 ## Announcements
 
 <script>
-  var countDownDate = new Date("Jan 06, 2023 09:30:00").getTime();
+  var countDownDate = new Date("Jan 09, 2023 09:30:00").getTime();
   var myfunc = setInterval(function() {
     var now = new Date().getTime();
     var timeleft = countDownDate - now;
