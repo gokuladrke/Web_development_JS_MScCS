@@ -8,7 +8,7 @@
 ## Announcements
 
 <script>
-  var countDownDate = new Date("Jan 02, 2023 09:30:00").getTime();
+  var countDownDate = new Date("Jan 06, 2023 09:30:00").getTime();
   var myfunc = setInterval(function() {
     var now = new Date().getTime();
     var timeleft = countDownDate - now;
@@ -36,13 +36,13 @@
 
 | Agenda                                                    | Date       | Time              | Training Venue | Tools Used                   |
 | --------------------------------------------------------- | ---------- | ----------------- | -------------- | ---------------------------- |
-| Introduction and Abstract Data Types, Asymptotic Analysis | 02.01.2023 | 9.30am to 12.30am | VM Hall        | Github, Slides, Google Form  |
-| Arrays and Recursion                                      | 03.01.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
-| Linked Lists - Introduction                               | 04.01.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
-| Singly Linked Lists                                       | 05.01.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
-| Doubly Linked Lists and Circularly Linked Lists           | 06.01.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
+| Introduction and Abstract Data Types, Asymptotic Analysis | 09.01.2023 | 9.30am to 12.30am | VM Hall        | Github, Slides, Google Form  |
+| Arrays and Recursion                                      | 10.01.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
+| Linked Lists - Introduction                               | 11.01.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
+| Singly Linked Lists                                       | 12.01.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
+| Doubly Linked Lists and Circularly Linked Lists           | 13.01.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
 
-## January 1
+## January 9
 
 - 9.30am to 11.00am
 
@@ -60,7 +60,7 @@
   - `[15 mins]` Representing an algorithm as a Pseudocode
   - `[30 mins]` Pseudocode Example - Fibonacci Series
   - `[15 mins]` Q & A
-  - `[15 mins]` Test your understanding - Quiz
+  - `[15 mins]` Test your understanding - [Quiz](https://forms.gle/VQDWiFv6GxRRofS69)
 
 <!-- ## Pattern of the Test
 
