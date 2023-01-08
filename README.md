@@ -46,7 +46,7 @@
 
 - 9.30am to 11.00am
 
-  - `[5 mins]` Faculty Introduction & Setting up the Stage
+  - `[5 mins]` [Faculty Introduction & Setting up the Stage](faculty.md)
   - `[5 mins]` How to use the Training page?
   - `[5 mins]` Github Registration and Joining slack for communication!
   - `[15 mins]` Variables and Data Types - Primitive and User-Defined
