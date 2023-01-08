@@ -50,7 +50,7 @@
   - `[5 mins]` How to use the Training page?
   - `[5 mins]` Github Registration and [Joining slack](https://join.slack.com/t/rvscas-workspace/shared_invite/zt-1mss74s1x-4hZOxPeIpd1Tp2mQXxipOg) for communication!
   - `[15 mins]` Variables and Data Types - Primitive and User-Defined
-    - [Slides]()
+    - [Slides](./slides/variables-and-data-types.md)
     - [Lecture Notes](./lectureNotes/variables-datatypes.md)
   - `[15 mins]` Introduction - Data Structures, Abstract Data Types
     - Slides
