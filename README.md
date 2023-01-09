@@ -44,50 +44,20 @@
 
 ## January 9
 
-- 9.30am to 11.00am
-
-  - `[5 mins]` [Faculty Introduction & Setting up the Stage](faculty.md)
-  - `[5 mins]` How to use the Training page?
-  - `[5 mins]` Github Registration and [Joining slack](https://join.slack.com/t/rvscas-workspace/shared_invite/zt-1mss74s1x-4hZOxPeIpd1Tp2mQXxipOg) for communication!
-  - `[15 mins]` Variables and Data Types - Primitive and User-Defined
-    - [Slides](./slides/variables-and-data-types.md)
-    - [Lecture Notes](./lectureNotes/variables-datatypes.md)
-  - `[15 mins]` Introduction - Data Structures, Abstract Data Types
-    - Slides
-    - [Lecture Notes](./lectureNotes/data-structures-abstract-data-types.md)
-  - `[30 mins]` What is an Algorithm? Asymptotic Notations and its Types
-    - Slides
-    - [Lecture Notes]()
-  - `[15 mins]` Q & A
-    - Park your questions using the following link to the padlet.
-    - [https://padlet.com/sathishdatascientist/1uoz4lq8c9lp6l5c](https://padlet.com/sathishdatascientist/1uoz4lq8c9lp6l5c)
-
-- 11.00 am to 11.15am `[15 mins - Tea Break & Refreshments]`
-
-- 11.15am to 12.30pm
-  - `[15 mins]` Representing an algorithm as a Pseudocode
-  - `[30 mins]` Pseudocode Example - Fibonacci Series
-  - `[15 mins]` Q & A
-    - Park your questions using the following link to the padlet.
-    - [https://padlet.com/sathishdatascientist/1uoz4lq8c9lp6l5c](https://padlet.com/sathishdatascientist/1uoz4lq8c9lp6l5c)
-  - `[15 mins]` Test your understanding - [Quiz](https://forms.gle/VQDWiFv6GxRRofS69)
-
-## January 9
-
-| Time                | Topic                                                    | Details | Link                                                                                                         |
-| ------------------- | -------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------ |
-| 9.30am to 11.00am   | Faculty Introduction & Setting up the Stage              | 5 mins  | [Faculty Introduction & Setting up the Stage](faculty.md)                                                    |
-|                     | How to use the Training page?                            | 5 mins  |                                                                                                              |
-|                     | Github Registration and Joining slack for communication  | 5 mins  | [Joining slack](https://join.slack.com/t/rvscas-workspace/shared_invite/zt-1mss74s1x-4hZOxPeIpd1Tp2mQXxipOg) |
-|                     | Variables and Data Types - Primitive and User-Defined    | 15 mins | [Slides](./slides/variables-and-data-types.md), [Lecture Notes](./lectureNotes/variables-datatypes.md)       |
-|                     | Introduction - Data Structures, Abstract Data Types      | 15 mins | [Lecture Notes](./lectureNotes/data-structures-abstract-data-types.md)                                       |
-|                     | What is an Algorithm? Asymptotic Notations and its Types | 30 mins | [Lecture Notes]()                                                                                            |
-|                     | Q & A                                                    | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/1uoz4lq8c9lp6l5c)                                           |
-| 11.00 am to 11.15am | Tea Break & Refreshments                                 |         |                                                                                                              |
-| 11.15am to 12.30pm  | Representing an algorithm as a Pseudocode                | 15 mins |                                                                                                              |
-|                     | Pseudocode Example - Fibonacci Series                    | 30 mins |                                                                                                              |
-|                     | Q & A                                                    | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/1uoz4lq8c9lp6l5c)                                           |
-|                     | Test your understanding - Quiz                           | 15 mins | [Quiz](https://forms.gle/VQDWiFv6GxRRofS69)                                                                  |
+| Time                | Topic                                                    | Details | Link                                                                                                                                                                                     |
+| ------------------- | -------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 9.30am to 11.00am   | Faculty Introduction & Setting up the Stage              | 5 mins  | [Faculty Introduction & Setting up the Stage](faculty.md)                                                                                                                                |
+|                     | How to use the Training page?                            | 5 mins  |                                                                                                                                                                                          |
+|                     | Github Registration and Joining slack for communication  | 5 mins  | [Joining slack](https://join.slack.com/t/rvscas-workspace/shared_invite/zt-1mss74s1x-4hZOxPeIpd1Tp2mQXxipOg)                                                                             |
+|                     | Variables and Data Types - Primitive and User-Defined    | 15 mins | [Slides](./slides/variables-and-data-types.md), [Lecture Notes](./lectureNotes/variables-datatypes.md), [Knowledge Check](https://forms.gle/cK253ecaAwFhSpfc8)                           |
+|                     | Introduction - Data Structures, Abstract Data Types      | 15 mins | [Slides](./slides/data-structures-and-adt.md),[Lecture Notes](./lectureNotes/data-structures-abstract-data-types.md), [Knowledge Check](https://forms.gle/4SNofPENpZCdAAdu8)             |
+|                     | What is an Algorithm? Asymptotic Notations and its Types | 30 mins | [Slides](./slides/algorithms-and-asymptotic-notations.md),[Lecture Notes](./lectureNotes/algorithms-and-asymptotic-notations.md), [Knowledge Check](https://forms.gle/fokYZ1hgrehWSsABA) |
+|                     | Q & A                                                    | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/1uoz4lq8c9lp6l5c)                                                                                                                       |
+| 11.00 am to 11.15am | Tea Break & Refreshments                                 |         |                                                                                                                                                                                          |
+| 11.15am to 12.30pm  | Representing an algorithm as a Pseudocode                | 15 mins | [Slides](./slides/pseudocode.md)                                                                                                                                                         |
+|                     | Pseudocode Example - Fibonacci Series                    | 30 mins |                                                                                                                                                                                          |
+|                     | Q & A                                                    | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/1uoz4lq8c9lp6l5c)                                                                                                                       |
+|                     | Test your understanding - Quiz                           | 15 mins | [Quiz](https://forms.gle/VQDWiFv6GxRRofS69)                                                                                                                                              |
 
 <!-- ## Pattern of the Test
 
