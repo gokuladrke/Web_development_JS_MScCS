@@ -59,6 +59,20 @@
 |                     | Q & A                                                    | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/1uoz4lq8c9lp6l5c)                                                                                                                       |
 |                     | Test your understanding - Quiz                           | 15 mins | [Quiz](https://forms.gle/VQDWiFv6GxRRofS69)                                                                                                                                              |
 
+## January 10
+
+| Time                | Topic                          | Details | Link                                                               |
+| ------------------- | ------------------------------ | ------- | ------------------------------------------------------------------ |
+| 9.30am to 11.00am   | Revisiting Abstract Data Types | 30 mins |                                                                    |
+|                     | Q&A                            | 15 mins |                                                                    |
+|                     | Algorithms and Pseudocodes     | 45 mins |                                                                    |
+|                     | Q & A                          | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/1uoz4lq8c9lp6l5c) |
+| 11.00 am to 11.15am | Tea Break & Refreshments       |         |                                                                    |
+| 11.15am to 12.30pm  | Arrays                         | 10 mins | [Slides](./slides/arrays.md)                                       |
+|                     | Recursion                      | 20 mins | [Slides](./slides/recursion.md)                                    |
+|                     | Q & A                          | 5 mins  | [Padlet](https://padlet.com/sathishdatascientist/1uoz4lq8c9lp6l5c) |
+|                     | Test your understanding - Quiz | 10 mins | [Quiz]()                                                           |
+
 <!-- ## Pattern of the Test
 
 | Section           | Questions    | Time    |
