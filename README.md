@@ -52,11 +52,11 @@
 |                     | Variables and Data Types - Primitive and User-Defined    | 15 mins | [Slides](./slides/variables-and-data-types.md), [Lecture Notes](./lectureNotes/variables-datatypes.md), [Knowledge Check](https://forms.gle/cK253ecaAwFhSpfc8)                           |
 |                     | Introduction - Data Structures, Abstract Data Types      | 15 mins | [Slides](./slides/data-structures-and-adt.md),[Lecture Notes](./lectureNotes/data-structures-abstract-data-types.md), [Knowledge Check](https://forms.gle/4SNofPENpZCdAAdu8)             |
 |                     | What is an Algorithm? Asymptotic Notations and its Types | 30 mins | [Slides](./slides/algorithms-and-asymptotic-notations.md),[Lecture Notes](./lectureNotes/algorithms-and-asymptotic-notations.md), [Knowledge Check](https://forms.gle/fokYZ1hgrehWSsABA) |
-|                     | Q & A                                                    | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/1uoz4lq8c9lp6l5c)                                                                                                                       |
+|                     | Q & A                                                    | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/oqf09oefydef834j)                                                                                                                       |
 | 11.00 am to 11.15am | Tea Break & Refreshments                                 |         |                                                                                                                                                                                          |
 | 11.15am to 12.30pm  | Representing an algorithm as a Pseudocode                | 15 mins | [Slides](./slides/pseudocode.md)                                                                                                                                                         |
 |                     | Pseudocode Example - Fibonacci Series                    | 30 mins |                                                                                                                                                                                          |
-|                     | Q & A                                                    | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/1uoz4lq8c9lp6l5c)                                                                                                                       |
+|                     | Q & A                                                    | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/oqf09oefydef834j)                                                                                                                       |
 |                     | Test your understanding - Quiz                           | 15 mins | [Quiz](https://forms.gle/VQDWiFv6GxRRofS69)                                                                                                                                              |
 
 ## January 10
@@ -66,11 +66,11 @@
 | 9.30am to 11.00am   | Revisiting Abstract Data Types | 30 mins |                                                                    |
 |                     | Q&A                            | 15 mins |                                                                    |
 |                     | Algorithms and Pseudocodes     | 45 mins |                                                                    |
-|                     | Q & A                          | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/1uoz4lq8c9lp6l5c) |
+|                     | Q & A                          | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/oqf09oefydef834j) |
 | 11.00 am to 11.15am | Tea Break & Refreshments       |         |                                                                    |
 | 11.15am to 12.30pm  | Arrays                         | 10 mins | [Slides](./slides/arrays.md)                                       |
 |                     | Recursion                      | 20 mins | [Slides](./slides/recursion.md)                                    |
-|                     | Q & A                          | 5 mins  | [Padlet](https://padlet.com/sathishdatascientist/1uoz4lq8c9lp6l5c) |
+|                     | Q & A                          | 5 mins  | [Padlet](https://padlet.com/sathishdatascientist/oqf09oefydef834j) |
 |                     | Test your understanding - Quiz | 10 mins | [Quiz]()                                                           |
 
 <!-- ## Pattern of the Test
