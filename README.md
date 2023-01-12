@@ -92,7 +92,7 @@
 | 9.30am to 11.00am  | Revisiting Abstract Data Types   | 30 mins |                                                                    |
 |                    | Q & A                            | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/oqf09oefydef834j) |
 | 11.15am to 11.30am | Tea Break & Refreshments         | 15 mins |                                                                    |
-| 11.30am to 1.15pm  | Problem Solving                  | 80 mins | [Notes](./slides/pseudocode.md)                                    |
+| 11.30am to 1.15pm  | Problem Solving                  | 80 mins | [Notes](./lectureNotes/pseudocode.md)                              |
 |                    | Assignment Instructions and Demo | 15 mins | [Slides](./lectureNotes/assignment-instructions.md)                |
 
 ## January 12
