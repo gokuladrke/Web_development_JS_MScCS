@@ -19,7 +19,16 @@
     var minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
     var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
 
-    document.getElementById("time").innerHTML = 'The Training starts in ' + days + ' days ' + hours + ' hours ' + minutes + ' minutes ' + seconds + ' seconds <br /> <br />';
+    var lastDate = new Date("Jan 13, 2023 12:45:00");
+
+    if(now<countDownDate){
+      document.getElementById("time").innerHTML = 'The Training starts in ' + days + ' days ' + hours + ' hours ' + minutes + ' minutes ' + seconds + ' seconds <br /> <br />';
+    } else if(now>=countDownDate && now<=lastDate){
+      document.getElementById("time").innerHTML = 'The Training is LIVE! <br /> <br />';
+    } else if(now>lastDate){
+      document.getElementById("time").innerHTML = 'The Training is COMPLETED! <br /> <br />';
+    }
+
   },1000);
 </script>
 
@@ -72,6 +81,35 @@
 |                     | Recursion                      | 20 mins | [Slides](./slides/recursion.md)                                    |
 |                     | Q & A                          | 5 mins  | [Padlet](https://padlet.com/sathishdatascientist/oqf09oefydef834j) |
 |                     | Test your understanding - Quiz | 10 mins | [Quiz]()                                                           |
+
+## January 11
+
+| Time               | Topic                            | Details | Link                                                               |
+| ------------------ | -------------------------------- | ------- | ------------------------------------------------------------------ |
+| 9.30am to 11.00am  | Revisiting Abstract Data Types   | 30 mins |                                                                    |
+|                    | Q & A                            | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/oqf09oefydef834j) |
+| 11.15am to 11.30am | Tea Break & Refreshments         | 15 mins |                                                                    |
+| 11.30am to 1.15pm  | Problem Solving                  | 80 mins | [Notes](./slides/pseudocode.md)                                    |
+|                    | Assignment Instructions and Demo | 15 mins | [Slides](./lectureNotes/assignment-instructions.md)                |
+
+## January 12
+
+| Time               | Topic                           | Details | Link                                                               |
+| ------------------ | ------------------------------- | ------- | ------------------------------------------------------------------ |
+| 9.30am to 10.30am  | Assignment Hands-On with GitHub | 30 mins | [Instructions](./lectureNotes/assignment-instructions.md)          |
+| 10.30am to 11.15am | Recursion                       | 45 mins | [Padlet](https://padlet.com/sathishdatascientist/oqf09oefydef834j) |
+| 11.15am to 11.30am | Tea Break & Refreshments        | 15 mins |                                                                    |
+| 11.30am to 12.45pm | Linked Lists - Introduction     | 60 mins | [Notes](./slides/pseudocode.md)                                    |
+|                    | Q&A                             | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/oqf09oefydef834j) |
+
+## Homeworks
+
+| Topic                | Release Date | Deadline             | Link                                            |
+| -------------------- | ------------ | -------------------- | ----------------------------------------------- |
+| Asymptotic Notations | 12-Jan-2023  | 13-Jan-2023 11:59 PM | [Homework](https://forms.gle/jN8jxmpeSpwzM6BQ6) |
+| Arrays               |              |                      |                                                 |
+| Recursion            |              |                      |                                                 |
+| Linked Lists         |              |                      |                                                 |
 
 <!-- ## Pattern of the Test
 
