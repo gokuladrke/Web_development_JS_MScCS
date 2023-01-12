@@ -38,6 +38,9 @@
   </ul>
 </div>
 
+- January 11 & 12 Schedules added!
+- Quiz in January 9th Schedule is enabled!
+- Homework for January 12 is added. Deadline for the homework submission is 13th Jan 11:59 PM.
 - Please make use of the [comment](#write-your-comments-below) section in the end of the page for any doubts/clarifications needed related to the training.
 - The training page will have everything related to the training from schedules to quizzes.
 
