@@ -114,6 +114,17 @@
 | Recursion            |              |                      |                                                 |
 | Linked Lists         |              |                      |                                                 |
 
+## Practicals
+
+| Topic                                                                                        | Release Date | Deadline             | Link                                                                                                                   |
+| -------------------------------------------------------------------------------------------- | ------------ | -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 1. Write a Java program to find the second highest number in an array.                       | 18-Jan-2023  | 21-Jan-2023 11:59 PM | [Practical 1](https://classroom.github.com/a/bn8m7R98) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-1.md) |
+| 2. Write a Java program to reverse a string using Recursion                                  | 23-Jan-2023  | 28-Jan-2023 11:59 PM | [Practical 2]() / [Algorithm/Pseudocode](./practical-algorithms/algorithm-2.md)                                        |
+| 3. Write a Java program to find the factorial of a given number using Recursion              | 23-Jan-2023  | 28-Jan-2023 11:59 PM | [Practical 3]() / [Algorithm/Pseudocode](./practical-algorithms/algorithm-3.md)                                        |
+| 4. Write a method in Linked List class to find the length of the linked list                 | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 4]() / [Algorithm/Pseudocode]()                                                                             |
+| 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5]() / [Algorithm/Pseudocode]()                                                                             |
+| 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6]() / [Algorithm/Pseudocode]()                                                                             |
+
 <!-- ## Pattern of the Test
 
 | Section           | Questions    | Time    |
