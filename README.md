@@ -4,11 +4,12 @@
   - [Announcements](#announcements)
   - [Schedule](#schedule)
   - [Session - 1 Contents](#january-1)
+  - [Schedule for Week 5](#week-5-schedule)
 
 ## Announcements
 
 <script>
-  var countDownDate = new Date("Jan 09, 2023 09:30:00").getTime();
+  var countDownDate = new Date("Feb 20, 2023 09:30:00").getTime();
   var myfunc = setInterval(function() {
     var now = new Date().getTime();
     var timeleft = countDownDate - now;
@@ -19,7 +20,7 @@
     var minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
     var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
 
-    var lastDate = new Date("Jan 13, 2023 12:45:00");
+    var lastDate = new Date("Feb 24, 2023 12:45:00");
 
     if(now<countDownDate){
       document.getElementById("time").innerHTML = 'The Training starts in ' + days + ' days ' + hours + ' hours ' + minutes + ' minutes ' + seconds + ' seconds <br /> <br />';
@@ -183,6 +184,27 @@
 | 4. Write a method in Linked List class to find the length of the linked list                 | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 4]() / [Algorithm/Pseudocode]()                                                                             |
 | 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5]() / [Algorithm/Pseudocode]()                                                                             |
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6]() / [Algorithm/Pseudocode]()                                                                             |
+
+## Week 5 Schedule
+
+| Agenda                         | Date       | Time              | Training Venue | Tools Used                   |
+| ------------------------------ | ---------- | ----------------- | -------------- | ---------------------------- |
+| Linked Lists - Revisited       | 20.02.2023 | 9.30am to 12.30am | VM Hall        | Github, Slides, Google Form  |
+| Stacks and its Implementations | 21.02.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
+| Applications of Stacks         | 22.02.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
+| Queues and its Implementations | 23.02.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
+| Searching and Sorting          | 24.02.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
+
+## February 20
+
+| Time               | Topic                  | Details | Notes/Padlet                                                       | Implementations |
+| ------------------ | ---------------------- | ------- | ------------------------------------------------------------------ | --------------- |
+| 9.30am to 10.15am  | Singly Linked List     | 45 mins | [Notes](./lectureNotes/singly-linked-lists.md)                     | [Code]()        |
+| 10.15am to 11.00am | Doubly Linked List     | 45 mins | [Notes](./lectureNotes/doubly-linked-lists.md)                     | [Code]()        |
+| 11.00am to 11.15am | Q & A                  | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/oqf09oefydef834j) |                 |
+| 11.15am to 11.30am | Tea Break              | 15 mins |                                                                    |                 |
+| 11.30am to 12.15pm | Circularly Linked List | 45 mins | [Notes](./lectureNotes/circularly-linked-lists.md)                 | [Code]()        |
+| 12.15am to 12.30pm | Q & A                  | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/oqf09oefydef834j) |                 |
 
 <!-- ## Pattern of the Test
 
