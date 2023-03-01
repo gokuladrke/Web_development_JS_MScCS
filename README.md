@@ -127,7 +127,7 @@
 | 2. Write a Java program to reverse a string using Recursion                                  | 23-Jan-2023  | 28-Jan-2023 11:59 PM | [Practical 2](https://classroom.github.com/a/QqstL6mr) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-2.md) |
 | 3. Write a Java program to find the factorial of a given number using Recursion              | 23-Jan-2023  | 28-Jan-2023 11:59 PM | [Practical 3](https://classroom.github.com/a/7MJvCR8I) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-3.md) |
 | 4. Write a method in Linked List class to find the length of the linked list                 | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 4](https://classroom.github.com/a/3ICxrNvq) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-4.md) |
-| 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5]() / [Algorithm/Pseudocode]()                                                                             |
+| 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5](https://classroom.github.com/a/lNRRCkch) / [Algorithm/Pseudocode]()                                      |
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6]() / [Algorithm/Pseudocode]()                                                                             |
 
 ### II CS B
@@ -138,7 +138,7 @@
 | 2. Write a Java program to reverse a string using Recursion                                  | 23-Jan-2023  | 28-Jan-2023 11:59 PM | [Practical 2](https://classroom.github.com/a/IfuS3wW1) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-2.md) |
 | 3. Write a Java program to find the factorial of a given number using Recursion              | 23-Jan-2023  | 28-Jan-2023 11:59 PM | [Practical 3](https://classroom.github.com/a/r1C9vZ6U) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-3.md) |
 | 4. Write a method in Linked List class to find the length of the linked list                 | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 4](https://classroom.github.com/a/47z3f-sm) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-4.md) |
-| 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5]() / [Algorithm/Pseudocode]()                                                                             |
+| 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5](https://classroom.github.com/a/SdyftpHC) / [Algorithm/Pseudocode]()                                      |
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6]() / [Algorithm/Pseudocode]()                                                                             |
 
 ### II IT A
@@ -149,7 +149,7 @@
 | 2. Write a Java program to reverse a string using Recursion                                  | 23-Jan-2023  | 28-Jan-2023 11:59 PM | [Practical 2](https://classroom.github.com/a/IpXgxOtT) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-2.md) |
 | 3. Write a Java program to find the factorial of a given number using Recursion              | 23-Jan-2023  | 28-Jan-2023 11:59 PM | [Practical 3](https://classroom.github.com/a/KIohywb3) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-3.md) |
 | 4. Write a method in Linked List class to find the length of the linked list                 | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 4](https://classroom.github.com/a/2NPrshcD) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-4.md) |
-| 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5]() / [Algorithm/Pseudocode]()                                                                             |
+| 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5](https://classroom.github.com/a/ReRvwP9_) / [Algorithm/Pseudocode]()                                      |
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6]() / [Algorithm/Pseudocode]()                                                                             |
 
 ### II IT B
@@ -160,7 +160,7 @@
 | 2. Write a Java program to reverse a string using Recursion                                  | 23-Jan-2023  | 28-Jan-2023 11:59 PM | [Practical 2](https://classroom.github.com/a/5IkhkLES) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-2.md) |
 | 3. Write a Java program to find the factorial of a given number using Recursion              | 23-Jan-2023  | 28-Jan-2023 11:59 PM | [Practical 3](https://classroom.github.com/a/WYuk__wF) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-3.md) |
 | 4. Write a method in Linked List class to find the length of the linked list                 | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 4](https://classroom.github.com/a/jhFJar1U) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-4.md) |
-| 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5]() / [Algorithm/Pseudocode]()                                                                             |
+| 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5](https://classroom.github.com/a/O1fqbZTw) / [Algorithm/Pseudocode]()                                      |
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6]() / [Algorithm/Pseudocode]()                                                                             |
 
 ### II BCA A
@@ -171,7 +171,7 @@
 | 2. Write a Java program to reverse a string using Recursion                                  | 23-Jan-2023  | 28-Jan-2023 11:59 PM | [Practical 2](https://classroom.github.com/a/TAe5KFFA) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-2.md) |
 | 3. Write a Java program to find the factorial of a given number using Recursion              | 23-Jan-2023  | 28-Jan-2023 11:59 PM | [Practical 3](https://classroom.github.com/a/smUWMn9N) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-3.md) |
 | 4. Write a method in Linked List class to find the length of the linked list                 | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 4](https://classroom.github.com/a/r6gYJ_2m) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-4.md  |
-| 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5]() / [Algorithm/Pseudocode]()                                                                             |
+| 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5](https://classroom.github.com/a/-Tej6sX7) / [Algorithm/Pseudocode]()                                      |
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6]() / [Algorithm/Pseudocode]()                                                                             |
 
 ### II BCA B
@@ -182,7 +182,7 @@
 | 2. Write a Java program to reverse a string using Recursion                                  | 23-Jan-2023  | 28-Jan-2023 11:59 PM | [Practical 2](https://classroom.github.com/a/3HFdTYkh) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-2.md) |
 | 3. Write a Java program to find the factorial of a given number using Recursion              | 23-Jan-2023  | 28-Jan-2023 11:59 PM | [Practical 3](https://classroom.github.com/a/lEgwEEIM) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-3.md) |
 | 4. Write a method in Linked List class to find the length of the linked list                 | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 4](https://classroom.github.com/a/eBk0frNh) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-4.md) |
-| 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5]() / [Algorithm/Pseudocode]()                                                                             |
+| 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5](https://classroom.github.com/a/zpsj3KXy) / [Algorithm/Pseudocode]()                                      |
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6]() / [Algorithm/Pseudocode]()                                                                             |
 
 ## Week 5 Schedule
