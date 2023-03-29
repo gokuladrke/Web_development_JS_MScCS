@@ -128,7 +128,7 @@
 | 3. Write a Java program to find the factorial of a given number using Recursion              | 23-Jan-2023  | 28-Jan-2023 11:59 PM | [Practical 3](https://classroom.github.com/a/7MJvCR8I) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-3.md) |
 | 4. Write a method in Linked List class to find the length of the linked list                 | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 4](https://classroom.github.com/a/3ICxrNvq) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-4.md) |
 | 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5](https://classroom.github.com/a/lNRRCkch) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-5.md) |
-| 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6](https://classroom.github.com/a/2o_V2Qeb) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-6.md) |
+| 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6](https://classroom.github.com/a/-YpUCPUK) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-6.md) |
 
 ### II CS B
 
@@ -139,7 +139,7 @@
 | 3. Write a Java program to find the factorial of a given number using Recursion              | 23-Jan-2023  | 28-Jan-2023 11:59 PM | [Practical 3](https://classroom.github.com/a/r1C9vZ6U) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-3.md) |
 | 4. Write a method in Linked List class to find the length of the linked list                 | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 4](https://classroom.github.com/a/47z3f-sm) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-4.md) |
 | 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5](https://classroom.github.com/a/SdyftpHC) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-5.md) |
-| 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6](https://classroom.github.com/a/HgBgi3Cs) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-6.md) |
+| 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6](https://classroom.github.com/a/VhfIitxd) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-6.md) |
 
 ### II IT A
 
