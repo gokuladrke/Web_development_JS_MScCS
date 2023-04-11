@@ -129,6 +129,7 @@
 | 4. Write a method in Linked List class to find the length of the linked list                 | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 4](https://classroom.github.com/a/3ICxrNvq) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-4.md) |
 | 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5](https://classroom.github.com/a/lNRRCkch) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-5.md) |
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6](https://classroom.github.com/a/-YpUCPUK) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-6.md) |
+| 7. Implement using Stack datastructure reversing a string                                    | 11-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 7](https://classroom.github.com/a/Y02sILAW) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-7.md) |
 
 ### II CS B
 
@@ -140,6 +141,7 @@
 | 4. Write a method in Linked List class to find the length of the linked list                 | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 4](https://classroom.github.com/a/47z3f-sm) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-4.md) |
 | 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5](https://classroom.github.com/a/SdyftpHC) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-5.md) |
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6](https://classroom.github.com/a/VhfIitxd) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-6.md) |
+| 7. Implement using Stack datastructure reversing a string                                    | 11-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 7](https://classroom.github.com/a/SEV4xmc0) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-7.md) |
 
 ### II IT A
 
@@ -151,6 +153,7 @@
 | 4. Write a method in Linked List class to find the length of the linked list                 | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 4](https://classroom.github.com/a/2NPrshcD) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-4.md) |
 | 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5](https://classroom.github.com/a/ReRvwP9_) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-5.md) |
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6](https://classroom.github.com/a/shJaXAOO) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-6.md) |
+| 7. Implement using Stack datastructure reversing a string                                    | 11-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 7](https://classroom.github.com/a/XpCLRHQJ) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-7.md) |
 
 ### II IT B
 
@@ -162,6 +165,7 @@
 | 4. Write a method in Linked List class to find the length of the linked list                 | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 4](https://classroom.github.com/a/jhFJar1U) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-4.md) |
 | 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5](https://classroom.github.com/a/O1fqbZTw) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-5.md) |
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6](https://classroom.github.com/a/6Qu7aiUh) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-6.md) |
+| 7. Implement using Stack datastructure reversing a string                                    | 11-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 7](https://classroom.github.com/a/MavOfqKO) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-7.md) |
 
 ### II BCA A
 
@@ -173,6 +177,7 @@
 | 4. Write a method in Linked List class to find the length of the linked list                 | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 4](https://classroom.github.com/a/r6gYJ_2m) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-4.md  |
 | 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5](https://classroom.github.com/a/-Tej6sX7) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-5.md) |
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6](https://classroom.github.com/a/_kR3eJ7L) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-6.md) |
+| 7. Implement using Stack datastructure reversing a string                                    | 11-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 7](https://classroom.github.com/a/sLcFKI_1) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-7.md) |
 
 ### II BCA B
 
@@ -184,6 +189,7 @@
 | 4. Write a method in Linked List class to find the length of the linked list                 | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 4](https://classroom.github.com/a/eBk0frNh) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-4.md) |
 | 5. Write a method in Linked List class to delete an element from the tail of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 5](https://classroom.github.com/a/zpsj3KXy) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-5.md) |
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6](https://classroom.github.com/a/-A3xWxbJ) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-6.md) |
+| 7. Implement using Stack datastructure reversing a string                                    | 11-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 7](https://classroom.github.com/a/-xp0ET8E) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-7.md) |
 
 ## Week 5 Schedule
 
