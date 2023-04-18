@@ -131,6 +131,7 @@
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6](https://classroom.github.com/a/-YpUCPUK) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-6.md) |
 | 7. Implement using Stack datastructure reversing a string                                    | 11-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 7](https://classroom.github.com/a/Y02sILAW) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-7.md) |
 | 8. Complete the enqueue method of Queue Object Implementation                                | 18-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 8](https://classroom.github.com/a/PKsk6R1Z) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-8.md) |
+| 9. Complete the Implementation of Selection Sort                                             | 18-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 9](https://classroom.github.com/a/rQHnRTSS) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-9.md) |
 
 ### II CS B
 
@@ -144,6 +145,7 @@
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6](https://classroom.github.com/a/VhfIitxd) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-6.md) |
 | 7. Implement using Stack datastructure reversing a string                                    | 11-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 7](https://classroom.github.com/a/SEV4xmc0) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-7.md) |
 | 8. Complete the enqueue method of Queue Object Implementation                                | 18-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 8](https://classroom.github.com/a/3ExT4u6G) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-8.md) |
+| 9. Complete the Implementation of Selection Sort                                             | 18-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 9](https://classroom.github.com/a/umGpXI1P) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-9.md) |
 
 ### II IT A
 
@@ -157,6 +159,7 @@
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6](https://classroom.github.com/a/shJaXAOO) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-6.md) |
 | 7. Implement using Stack datastructure reversing a string                                    | 11-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 7](https://classroom.github.com/a/XpCLRHQJ) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-7.md) |
 | 8. Complete the enqueue method of Queue Object Implementation                                | 18-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 8](https://classroom.github.com/a/UNeILpZD) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-8.md) |
+| 9. Complete the Implementation of Selection Sort                                             | 18-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 9](https://classroom.github.com/a/kArMzf8V) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-9.md) |
 
 ### II IT B
 
@@ -170,6 +173,7 @@
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6](https://classroom.github.com/a/6Qu7aiUh) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-6.md) |
 | 7. Implement using Stack datastructure reversing a string                                    | 11-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 7](https://classroom.github.com/a/MavOfqKO) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-7.md) |
 | 8. Complete the enqueue method of Queue Object Implementation                                | 18-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 8](https://classroom.github.com/a/Bjut7qtu) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-8.md) |
+| 9. Complete the Implementation of Selection Sort                                             | 18-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 9](https://classroom.github.com/a/nkFj0yVn) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-9.md) |
 
 ### II BCA A
 
@@ -183,6 +187,7 @@
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6](https://classroom.github.com/a/_kR3eJ7L) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-6.md) |
 | 7. Implement using Stack datastructure reversing a string                                    | 11-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 7](https://classroom.github.com/a/sLcFKI_1) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-7.md) |
 | 8. Complete the enqueue method of Queue Object Implementation                                | 18-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 8](https://classroom.github.com/a/JhUeNBIW) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-8.md) |
+| 9. Complete the Implementation of Selection Sort                                             | 18-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 9]()https://classroom.github.com/a/DDlVoYfK / [Algorithm/Pseudocode](./practical-algorithms/algorithm-9.md) |
 
 ### II BCA B
 
@@ -196,6 +201,7 @@
 | 6. Write a method in Linked List class to insert an element in the middle of the linked list | 30-Jan-2023  | 05-Feb-2023 11:59 PM | [Practical 6](https://classroom.github.com/a/-A3xWxbJ) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-6.md) |
 | 7. Implement using Stack datastructure reversing a string                                    | 11-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 7](https://classroom.github.com/a/-xp0ET8E) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-7.md) |
 | 8. Complete the enqueue method of Queue Object Implementation                                | 18-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 8](https://classroom.github.com/a/pJdJWMXI) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-8.md) |
+| 9. Complete the Implementation of Selection Sort                                             | 18-Apr-2023  | 30-Apr-2023 11:59 PM | [Practical 9](https://classroom.github.com/a/hAEUzwyY) / [Algorithm/Pseudocode](./practical-algorithms/algorithm-9.md) |
 
 ## Week 5 Schedule
 
