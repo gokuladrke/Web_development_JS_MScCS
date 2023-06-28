@@ -1,7 +1,8 @@
-# Data Structures and Algorithms Using Java
+# Web Development with JavaScript
 
-- [DSA Using Java](#dsa-using-java)
+- [Web Developmentwith JS](#wdjs)
   - [Announcements](#announcements)
+  - [Syllabus](./syllabus/syllabus.md)
   - [Schedule](#schedule)
   - [Session - 1 Contents](#january-1)
   - [Schedule for Week 5](#week-5-schedule)
@@ -39,11 +40,12 @@
   </ul>
 </div>
 
-- January 11 & 12 Schedules added!
-- Quiz in January 9th Schedule is enabled!
-- Homework for January 12 is added. Deadline for the homework submission is 13th Jan 11:59 PM.
-- Please make use of the [comment](#write-your-comments-below) section in the end of the page for any doubts/clarifications needed related to the training.
-- The training page will have everything related to the training from schedules to quizzes.
+- Syllabus for Web Development with JavaScript given.
+- Have to take up  Knowledge check after each concepts.
+- Coding Activity and Coding Assignments to be submitted within stipulated time.
+- Please make use of the [comment](#write-your-comments-below) section in the end of the page for any doubts/clarifications needed related to the class.
+
+
 
 ## Schedule
 
