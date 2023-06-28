@@ -48,7 +48,7 @@
 
 | Week | Topic                                        | Activity & Assignment                                      |
 |------|----------------------------------------------|------------------------------------------------------------|
-| 1    | Computational Thinking                       | Discusssions,Knowledge Check, Coding Activity & Assignment |
+| 1    | Computational Thinking                       | [Discusssions](https://docs.google.com/forms/d/e/1FAIpQLSewOHsYDaAqJHVzWkfybyMOfAs68FkDvHkmo91DjJfzmAsgyw/viewform),[Knowledge Check], [Coding Activity & Assignment] |
 | 2    | Mental Model of Computing Operations         | Discusssions,Knowledge Check, Coding Activity & Assignment |
 | 3    | Introduction to JavaScript                   | Discusssions,Knowledge Check, Coding Activity & Assignment |
 | 4    | Functions: Array Manipulation And Scope      | Discusssions,Knowledge Check, Coding Activity & Assignment |
