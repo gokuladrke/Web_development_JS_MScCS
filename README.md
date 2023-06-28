@@ -4,6 +4,7 @@
   - [Announcements](#announcements)
   - [Syllabus](./syllabus/WDJS.pdf)
   - [Schedule](#schedule)
+  - [week](./syllabus/week.md)
   - [Session - 1 Contents](#january-1)
   - [Schedule for Week 5](#week-5-schedule)
 
