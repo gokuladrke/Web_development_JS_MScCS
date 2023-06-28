@@ -46,9 +46,18 @@
 - Coding Activity and Coding Assignments to be submitted within stipulated time.
 - Please make use of the [comment](#write-your-comments-below) section in the end of the page for any doubts/clarifications needed related to the class.
 
-
-
-## Schedule
+| Week | Topic                                        | Activity & Assignment                                      |
+|------|----------------------------------------------|------------------------------------------------------------|
+| 1    | Computational Thinking                       | Discusssions,Knowledge Check, Coding Activity & Assignment |
+| 2    | Mental Model of Computing Operations         | Discusssions,Knowledge Check, Coding Activity & Assignment |
+| 3    | Introduction to JavaScript                   | Discusssions,Knowledge Check, Coding Activity & Assignment |
+| 4    | Functions: Array Manipulation And Scope      | Discusssions,Knowledge Check, Coding Activity & Assignment |
+| 5    | Callback Functions                           | Discusssions,Knowledge Check, Coding Activity & Assignment |
+| 6    | Introduction To GitHub, Testing, And The DOM | Discusssions,Knowledge Check, Coding Activity & Assignment |
+| 7    | Styles And Bootstrap                         | Discusssions,Knowledge Check, Coding Activity & Assignment |
+| 8    | Asynchronous Code                            | Discusssions,Knowledge Check, Coding Activity & Assignment |
+| 9    | Introduction to Cyber Scurity and Recursion  | Discusssions,Knowledge Check, Coding Activity & Assignment |
+| 10   | GitHub Portfolio Project                     | Discusssions,Knowledge Check, Coding Activity & Assignment |
 
 
 <!-- ## Pattern of the Test
