@@ -1,212 +1,28 @@
 **SEMESTER-I**
-
 **MAJOR-2**
 
-|
-
-Course Title : **Web Development with JavaScript**
-
- |
-
-Course Code :
-
- |
-|
-
-Semester : **I**
-
- |
-
-Course Group : **NA**
-
- |
-|
-
-Teaching Scheme in Hrs (L:T:P) : **3:2:6**
-
- |
-
-Credits : **8 Credits**
-
- |
-|
-
-Map Code: **NA**
-
- |
-
-Total Contact Hours : **165**
-
- |
-|
-
-Formative Assessment : **25** **Marks**
-
- |
-
-Summative Assessment(SEE) : **75 Marks**
-
- |
-|
-
-Programme: **MCA # - Semester End Exam**
-
- |
-
-|
-
-**No.**
-
- |
-
-**Course Outcome**
-
- |
-
-**POs & PSOs**
-
- |
-
-**Cl. Ses**
-
- |
-
-**CL**
-
- |
-|
-
-CO1
-
- |
-
-Explain key web programming concepts
-
- |
-
-PO1-PO4, PSO1, PSO2
-
- |
-
-9L + 6T + 18P
-
- |
-
-AP
-
- |
-|
-
-CO2
-
- |
-
-Build web applications using JavaScript, HTML, and CSS
-
- |
-
-PO1-PO4, PSO1, PSO2
-
- |
-
-9L + 6T + 18P
-
- |
-
-AP
-
- |
-|
-
-CO3
-
- |
-
-Design and code user interactions on web pages
-
- |
-
-PO1-PO4, PSO1, PSO2
-
- |
-
-9L + 6T + 18P
-
- |
-
-AP
-
- |
-|
-
-CO4
-
- |
-
-Design and implement UI components for web applications
-
- |
-
-PO1-PO4, PSO1, PSO2
-
- |
-
-9L + 6T + 18P
-
- |
-
-AP
-
- |
-|
-
-CO5
-
- |
-
-Define and breakdown modern software development lifecycle processes
-
- |
-
-PO1-PO4, PSO1, PSO2
-
- |
-
-6L + 4T + 12P
-
- |
-
-AP
-
- |
-|
-
-CO6
-
- |
-
-Set-up code management tools such as GitHub
-
- |
-
-PO1-PO4, PSO1, PSO2
-
- |
-
-3L + 2T + 6P
-
- |
-
-AP
-
- |
+|     Course   Title : Web Development with JavaScript                                                                               |     Course Code               :                         |
+|------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+|     Semester      :   I                                                                                                            |     Course Group              : NA                      |
+|     Teaching Scheme in Hrs (L:T:P) : 3:2:6                                                                                         |     Credits                        : 8   Credits        |
+|     Map Code: NA                                                                                                                   |     Total Contact Hours     : 165                       |
+|     Formative Assessment                 :   25 Marks                                                                              |     Summative Assessment(SEE)           :   75 Marks    |
+|     Programme:   MCA                                                                                    #   - Semester End Exam    |                                                         |
+
+
+
+|     No.    |     Course   Outcome                                                          |     POs & PSOs             |     Cl. Ses          |     CL    |
+|------------|-------------------------------------------------------------------------------|----------------------------|----------------------|-----------|
+|     CO1    |     Explain   key web programming concepts                                    |     PO1-PO4, PSO1, PSO2    |     9L + 6T + 18P    |     AP    |
+|     CO2    |     Build   web applications using JavaScript, HTML, and CSS                  |     PO1-PO4, PSO1, PSO2    |     9L + 6T + 18P    |     AP    |
+|     CO3    |     Design   and code user interactions on web pages                          |     PO1-PO4, PSO1, PSO2    |     9L + 6T + 18P    |     AP    |
+|     CO4    |     Design   and implement UI components for web applications                 |     PO1-PO4, PSO1, PSO2    |     9L + 6T + 18P    |     AP    |
+|     CO5    |     Define   and breakdown modern software development lifecycle processes    |     PO1-PO4, PSO1, PSO2    |     6L + 4T + 12P    |     AP    |
+|     CO6    |     Set-up   code management tools such as GitHub                             |     PO1-PO4, PSO1, PSO2    |     3L + 2T + 6P     |     AP    |
 
 **PEDAGOGY:**
-
 Lecture, Group Discussion, LCD, Seminar and Case Study.
 
-**\
-**
 
 **UNIT -- I  25 Hours**
 
