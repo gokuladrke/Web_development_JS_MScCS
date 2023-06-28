@@ -19,7 +19,6 @@
 |     CO4    |     Design   and implement UI components for web applications                 |     PO1-PO4, PSO1, PSO2    |     9L + 6T + 18P    |     AP    |
 |     CO5    |     Define   and breakdown modern software development lifecycle processes    |     PO1-PO4, PSO1, PSO2    |     6L + 4T + 12P    |     AP    |
 |     CO6    |     Set-up   code management tools such as GitHub                             |     PO1-PO4, PSO1, PSO2    |     3L + 2T + 6P     |     AP    |
-
 **PEDAGOGY:**
 Lecture, Group Discussion, LCD, Seminar and Case Study.
 
