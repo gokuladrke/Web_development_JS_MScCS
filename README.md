@@ -15,9 +15,9 @@
   - [week 10 - GitHub Portfolio Project]
  
 
-## Announcements
+<!-- ## Announcements -->
 
-<script>
+<!-- <script>
   var countDownDate = new Date("Feb 20, 2023 09:30:00").getTime();
   var myfunc = setInterval(function() {
     var now = new Date().getTime();
@@ -46,25 +46,13 @@
   <ul>
     <li id='time'></li>
   </ul>
-</div>
-
+</div> -->
+## Announcements
 - Syllabus for Web Development with JavaScript given.
 - Have to take up  Knowledge check after each concepts.
 - Coding Activity and Coding Assignments to be submitted within stipulated time.
 - Please make use of the [comment](#write-your-comments-below) section in the end of the page for any doubts/clarifications needed related to the class.
 
-| Week | Topic                                        | Activity & Assignment                                      |
-|------|----------------------------------------------|------------------------------------------------------------|
-| 1    | Computational Thinking                       | [Knowledge Check 1.1](https://docs.google.com/forms/d/e/1FAIpQLScjGXd0o0BWaRu7wL4gX5FCZS7FHekQJpiU8fmHbzIIsO2u9g/viewform), [Coding Activity & Assignment] |
-| 2    | Mental Model of Computing Operations         | Discusssions,Knowledge Check, Coding Activity & Assignment |
-| 3    | Introduction to JavaScript                   | Discusssions,Knowledge Check, Coding Activity & Assignment |
-| 4    | Functions: Array Manipulation And Scope      | Discusssions,Knowledge Check, Coding Activity & Assignment |
-| 5    | Callback Functions                           | Discusssions,Knowledge Check, Coding Activity & Assignment |
-| 6    | Introduction To GitHub, Testing, And The DOM | Discusssions,Knowledge Check, Coding Activity & Assignment |
-| 7    | Styles And Bootstrap                         | Discusssions,Knowledge Check, Coding Activity & Assignment |
-| 8    | Asynchronous Code                            | Discusssions,Knowledge Check, Coding Activity & Assignment |
-| 9    | Introduction to Cyber Scurity and Recursion  | Discusssions,Knowledge Check, Coding Activity & Assignment |
-| 10   | GitHub Portfolio Project                     | Discusssions,Knowledge Check, Coding Activity & Assignment |
 
 
 <!-- ## Pattern of the Test
