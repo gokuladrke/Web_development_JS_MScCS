@@ -63,12 +63,5 @@
 | Hands-On Coding   | 1 Question   | 15 Mins |
 | Hands-On Coding   | 1 Questions  | 30 Mins | -->
 
-## Write your comments below
 
-<script src="https://utteranc.es/client.js"
-        repo=" https://rathnavelsubramaniam.github.io/Web_development_JS/"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+
