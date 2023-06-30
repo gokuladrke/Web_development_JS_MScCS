@@ -3,8 +3,16 @@
 - [Web Developmentwith JS](#wdjs)
   - [Announcements](#announcements)
   - [Syllabus](./syllabus/WDJS.pdf)
-  - [Schedule](#schedule)
-  - [week](./syllabus/week.md)
+  - [week 1 - Computational Thinking]
+  - [week 2 - Mental Model of Computing Operations]
+  - [week 3 - Introduction to JavaScript]
+  - [week 4 - Functions: Array Manipulation And Scope] 
+  - [week 5 - Callback Functions]
+  - [week 6 - Introduction To GitHub, Testing, And The DOM]
+  - [week 7 - Styles And Bootstrap]
+  - [week 8 - Asynchronous Code]
+  - [week 9 - Introduction to Cyber Scurity and Recursion]
+  - [week 10 - GitHub Portfolio Project]
   - [Session - 1 Contents](#january-1)
   - [Schedule for Week 5](#week-5-schedule)
 
@@ -48,7 +56,7 @@
 
 | Week | Topic                                        | Activity & Assignment                                      |
 |------|----------------------------------------------|------------------------------------------------------------|
-| 1    | Computational Thinking                       | [Discusssions](https://classroom.google.com/c/NjE1MzM0ODAxMDIz/a/NjE1MzM0OTgwMTYw/details),[Knowledge Check 1.1](https://docs.google.com/forms/d/e/1FAIpQLScjGXd0o0BWaRu7wL4gX5FCZS7FHekQJpiU8fmHbzIIsO2u9g/viewform), [Coding Activity & Assignment] |
+| 1    | Computational Thinking                       | [Knowledge Check 1.1](https://docs.google.com/forms/d/e/1FAIpQLScjGXd0o0BWaRu7wL4gX5FCZS7FHekQJpiU8fmHbzIIsO2u9g/viewform), [Coding Activity & Assignment] |
 | 2    | Mental Model of Computing Operations         | Discusssions,Knowledge Check, Coding Activity & Assignment |
 | 3    | Introduction to JavaScript                   | Discusssions,Knowledge Check, Coding Activity & Assignment |
 | 4    | Functions: Array Manipulation And Scope      | Discusssions,Knowledge Check, Coding Activity & Assignment |
