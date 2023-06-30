@@ -65,11 +65,10 @@
 
 ## Write your comments below
 
-<script 
-        async
-        src="https://utteranc.es/client.js"
-        repo="casrvs/casrvs.github.io"
-        issue-term="title"
+<script src="https://utteranc.es/client.js"
+        repo=" https://rathnavelsubramaniam.github.io/Web_development_JS/"
+        issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
-></script>
+        async>
+</script>
