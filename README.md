@@ -3,7 +3,7 @@
 - [Web Developmentwith JS](#wdjs)
   - [Announcements](#announcements)
   - [Syllabus](./syllabus/WDJS.pdf)
-  - [week 1 - Computational Thinking]
+  - [week 1 - Computational Thinking](./syllabus/week_1.md)
   - [week 2 - Mental Model of Computing Operations]
   - [week 3 - Introduction to JavaScript]
   - [week 4 - Functions: Array Manipulation And Scope] 
@@ -13,8 +13,7 @@
   - [week 8 - Asynchronous Code]
   - [week 9 - Introduction to Cyber Scurity and Recursion]
   - [week 10 - GitHub Portfolio Project]
-  - [Session - 1 Contents](#january-1)
-  - [Schedule for Week 5](#week-5-schedule)
+ 
 
 ## Announcements
 
