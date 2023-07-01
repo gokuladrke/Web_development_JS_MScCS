@@ -5,7 +5,7 @@
   - [Syllabus](./syllabus/WDJS.pdf)
   - [week 1 - Computational Thinking](./syllabus/week_2.md)
   - [week 2 - Mental Model of Computing Operations](./Week_2/week_2.md)
-  - [week 3 - Introduction to JavaScript]
+  - [week 3 - Introduction to JavaScript](./week_3/week3.md)
   - [week 4 - Functions: Array Manipulation And Scope] 
   - [week 5 - Callback Functions]
   - [week 6 - Introduction To GitHub, Testing, And The DOM]
