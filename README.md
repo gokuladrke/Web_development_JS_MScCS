@@ -7,7 +7,7 @@
   - [week 2 - Mental Model of Computing Operations](./Week_2/week_2.md)
   - [week 3 - Introduction to JavaScript](./week_3/week3.md)
   - [week 4 - Functions: Array Manipulation And Scope](./week_4/week4.md) 
-  - [week 5 - Callback Functions]
+  - [week 5 - Callback Functions](./week_5/week5.md)
   - [week 6 - Introduction To GitHub, Testing, And The DOM]
   - [week 7 - Styles And Bootstrap]
   - [week 8 - Asynchronous Code]
