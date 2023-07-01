@@ -4,7 +4,7 @@
   - [Announcements](#announcements)
   - [Syllabus](./syllabus/WDJS.pdf)
   - [week 1 - Computational Thinking](./syllabus/week_1.md)
-  - [week 2 - Mental Model of Computing Operations]
+  - [week 2 - Mental Model of Computing Operations](./Week_2/week_1.md)
   - [week 3 - Introduction to JavaScript]
   - [week 4 - Functions: Array Manipulation And Scope] 
   - [week 5 - Callback Functions]
