@@ -10,7 +10,7 @@
   - [week 5 - Callback Functions](./week_5/week5.md)
   - [week 6 - Introduction To GitHub, Testing, And The DOM](./Week_6/week6.md)
   - [week 7 - Styles And Bootstrap](./Week_7/week7.md)
-  - [week 8 - Asynchronous Code]
+  - [week 8 - Asynchronous Code](./Week_8/week8.md)
   - [week 9 - Introduction to Cyber Scurity and Recursion]
   - [week 10 - GitHub Portfolio Project]
  
