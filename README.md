@@ -52,20 +52,21 @@
 
 ## July 3rd 2023
 
-| Time                | Topic                                                    | Details | Link                                                                                                         |
-| ------------------- | -------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------ |
-| 9.30am to 11.00am   | Faculty Introduction & Setting up the Stage              | 5 mins  | [Faculty Introduction & Setting up the Stage](faculty.md)                                                    |
-|                     | How to use the Training page?                            | 5 mins  |                                                                                                              |
-|                     | Github Registration and Joining slack for communication  | 5 mins  | [Joining slack](https://join.slack.com/t/rvscas-workspace/shared_invite/zt-1mss74s1x-4hZOxPeIpd1Tp2mQXxipOg) |
-|                     | Class Fundamentals                                       | 15 mins | [Slides](), [Lecture Notes](), [Knowledge Check]()                                                           |
-|                     | Introduction - Data Structures, Abstract Data Types      | 15 mins | [Slides](),[Lecture Notes](), [Knowledge Check]()                                                            |
-|                     | What is an Algorithm? Asymptotic Notations and its Types | 30 mins | [Slides](),[Lecture Notes](), [Knowledge Check]()                                                            |
-|                     | Q & A                                                    | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/oqf09oefydef834j)                                           |
-| 11.00 am to 11.15am | Tea Break & Refreshments                                 |         |                                                                                                              |
-| 11.15am to 12.30pm  | Representing an algorithm as a Pseudocode                | 15 mins | [Slides]()                                                                                                   |
-|                     | Pseudocode Example - Fibonacci Series                    | 30 mins |                                                                                                              |
-|                     | Q & A                                                    | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/oqf09oefydef834j)                                           |
-|                     | Test your understanding - Quiz                           | 15 mins | [Quiz]()                                                                                                     |
+| Time                | Topic                                                   | Details | Link                                                                                                         |
+| ------------------- | ------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------ |
+| 9.30am to 11.00am   | Faculty Introduction & Setting up the Stage             | 5 mins  | [Faculty Introduction & Setting up the Stage](faculty.md)                                                    |
+|                     | How to use the Training page?                           | 5 mins  |                                                                                                              |
+|                     | Github Registration and Joining slack for communication | 5 mins  | [Joining slack](https://join.slack.com/t/rvscas-workspace/shared_invite/zt-1mss74s1x-4hZOxPeIpd1Tp2mQXxipOg) |
+|                     | Class Fundamentals                                      | 20 mins |                                                                                                              |
+|                     | Declaring Objects                                       | 20 mins |                                                                                                              |
+|                     | Assigning Object Reference Variables                    | 20 mins |                                                                                                              |
+|                     | Q & A                                                   | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/javaPadlet)                                                 |
+| 11.00 am to 11.15am | Tea Break & Refreshments                                |         |                                                                                                              |
+| 11.15am to 12.30pm  | Declaring Methods                                       | 15 mins |                                                                                                              |
+|                     | Returning a Value                                       | 15 mins |                                                                                                              |
+|                     | Adding a Method that takes parameters                   | 15 mins |                                                                                                              |
+|                     | Q & A                                                   | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/javaPadlet)                                                 |
+|                     | Test your understanding - Quiz                          | 15 mins | [Quiz](https://forms.gle/zKYJWGqJTphbKR7W7)                                                                  |
 
 ## Homeworks
 
