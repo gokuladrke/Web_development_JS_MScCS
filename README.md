@@ -1,15 +1,14 @@
-# Data Structures and Algorithms Using Java
+# Advanced Java
 
-- [DSA Using Java](#dsa-using-java)
+- [Advanced Java](#advanced-java)
   - [Announcements](#announcements)
   - [Schedule](#schedule)
   - [Session - 1 Contents](#january-1)
-  - [Schedule for Week 5](#week-5-schedule)
 
 ## Announcements
 
 <script>
-  var countDownDate = new Date("Jul 6, 2023 09:30:00").getTime();
+  var countDownDate = new Date("Jul 3, 2023 09:30:00").getTime();
   var myfunc = setInterval(function() {
     var now = new Date().getTime();
     var timeleft = countDownDate - now;
@@ -20,7 +19,7 @@
     var minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
     var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
 
-    var lastDate = new Date("Jul 11, 2023 12:45:00");
+    var lastDate = new Date("Jul 7, 2023 12:45:00");
 
     if(now<countDownDate){
       document.getElementById("time").innerHTML = 'The Training starts in ' + days + ' days ' + hours + ' hours ' + minutes + ' minutes ' + seconds + ' seconds <br /> <br />';
@@ -39,9 +38,6 @@
   </ul>
 </div>
 
-- January 11 & 12 Schedules added!
-- Quiz in January 9th Schedule is enabled!
-- Homework for January 12 is added. Deadline for the homework submission is 13th Jan 11:59 PM.
 - Please make use of the [comment](#write-your-comments-below) section in the end of the page for any doubts/clarifications needed related to the training.
 - The training page will have everything related to the training from schedules to quizzes.
 
@@ -49,11 +45,10 @@
 
 | Agenda                                                    | Date       | Time              | Training Venue | Tools Used                   |
 | --------------------------------------------------------- | ---------- | ----------------- | -------------- | ---------------------------- |
-| Introduction and Abstract Data Types, Asymptotic Analysis | 09.01.2023 | 9.30am to 12.30am | VM Hall        | Github, Slides, Google Form  |
-| Arrays and Recursion                                      | 10.01.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
-| Linked Lists - Introduction                               | 11.01.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
-| Singly Linked Lists                                       | 12.01.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
-| Doubly Linked Lists and Circularly Linked Lists           | 13.01.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
+| Introducing Classes | 03.07.2023 | 9.30am to 12.30am | VM Hall        | VS Code, Google Form  |
+| A Closer look at Methods and Classes                                      | 04.07.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
+| Inheritance                               | 06.07.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
+| Packages, Interfaces and Exception Handling                                       | 07.07.2023 | 9.30am to 12.30am | VM Hall        | Slides, Google Form, VS Code |
 
 ## January 9
 
