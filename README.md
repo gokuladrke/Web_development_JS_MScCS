@@ -4,6 +4,7 @@
   - [Announcements](#announcements)
   - [Schedule](#schedule)
   - [Session - 1 Contents](#july-3rd-2023)
+  - [Session - 2 Contents](#july-4th-2023)
 
 ## Announcements
 
@@ -37,7 +38,7 @@
     <li id='time'></li>
   </ul>
 </div>
-
+- July4th Schedule has been updated.
 - Please make use of the [comment](#write-your-comments-below) section in the end of the page for any doubts/clarifications needed related to the training.
 - The training page will have everything related to the training from schedules to quizzes.
 
@@ -67,6 +68,22 @@
 |                     | Adding a Method that takes parameters                   | 15 mins |                                                                                                              |
 |                     | Q & A                                                   | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/javaPadlet)                                                 |
 |                     | Test your understanding - Quiz                          | 15 mins | [Quiz](https://forms.gle/zKYJWGqJTphbKR7W7)                                                                  |
+
+## July 4th 2023
+
+| Time                | Topic                                | Details | Link                                                         |
+| ------------------- | ------------------------------------ | ------- | ------------------------------------------------------------ |
+| 9.30am to 11.00am   | Declaring Objects                    | 20 mins |                                                              |
+|                     | Assigning Object Reference Variables | 20 mins |                                                              |
+|                     | Declaring Methods                    | 15 mins |                                                              |
+|                     | Returning a Value                    | 20 mins |                                                              |
+|                     | Q & A                                | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/javaPadlet) |
+| 11.00 am to 11.15am | Tea Break & Refreshments             |         |                                                              |
+| 11.15am to 12.30pm  | Constructors                         | 15 mins |                                                              |
+|                     | Parametrized Constructors            | 15 mins |                                                              |
+|                     | Overloading Methods                  | 15 mins |                                                              |
+|                     | Q & A                                | 15 mins | [Padlet](https://padlet.com/sathishdatascientist/javaPadlet) |
+|                     | Test your understanding - Quiz       | 15 mins | [Quiz](https://forms.gle/zKYJWGqJTphbKR7W7)                  |
 
 ## Homeworks
 
