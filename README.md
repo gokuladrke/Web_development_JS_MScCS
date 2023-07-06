@@ -38,6 +38,7 @@
     <li id='time'></li>
   </ul>
 </div>
+- GitHub Repo link for the examples used during the demonstration: [Click Here to Access the Repo](https://github.com/RathnavelSubramaniam/Java-OOPS)
 - July4th Schedule has been updated.
 - Please make use of the [comment](#write-your-comments-below) section in the end of the page for any doubts/clarifications needed related to the training.
 - The training page will have everything related to the training from schedules to quizzes.
