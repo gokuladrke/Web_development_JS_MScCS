@@ -2,7 +2,7 @@
 
 - [Web Developmentwith JS](#wdjs)
   - [Announcements](#announcements)
-  - [Syllabus](./syllabus/Web_Development_with_JavaScript)
+  - [Syllabus](./syllabus/Web_Development_with_JavaScript.pdf)
   - [week 1 - Computational Thinking](./syllabus/week_1.md)
   - [week 2 - Mental Model of Computing Operations](./Week_2/week_2.md)
   - [week 3 - Introduction to JavaScript](./week_3/week3.md)
