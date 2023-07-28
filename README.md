@@ -4,14 +4,15 @@
   - [Announcements](#announcements)
   - [Syllabus](./syllabus/Web_Development_with_JavaScript.pdf)
   - [Week 1 - Computational Thinking](./syllabus/week_1.md)
-  - [Week 3 - Introduction to JavaScript](./week_3/week3.md)
-  - [Week 4 - Functions: Array Manipulation And Scope](./week_4/week4.md) 
-  - [Week 5 - Callback Functions](./week_5/week5.md)
-  - [Week 6 - Introduction To GitHub, Testing, And The DOM](./Week_6/week6.md)
-  - [Week 7 - Styles And Bootstrap](./Week_7/week7.md)
-  - [Week 8 - Asynchronous Code](./Week_8/week8.md)
-  - [Week 9 - Introduction to Cyber Security and Recursion]
-  - [Week 10 - GitHub Portfolio Project]
+  - [Week 2 - Mental model of Computer Operations]()
+  - [Week 3 - Introduction to JavaScript]()
+  - [Week 4 - Functions: Array Manipulation And Scope]() 
+  - [Week 5 - Callback Functions]()
+  - [Week 6 - Introduction To GitHub, Testing, And The DOM]()
+  - [Week 7 - Styles And Bootstrap]()
+  - [Week 8 - Asynchronous Code]()
+  - [Week 9 - Introduction to Cyber Security and Recursion]()
+  - [Week 10 - GitHub Portfolio Project]()
  
 
 ## Announcements
