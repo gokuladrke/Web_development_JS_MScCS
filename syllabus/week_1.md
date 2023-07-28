@@ -5,5 +5,6 @@
 |      |                        | [Knowledge Check 1.2](https://docs.google.com/forms/d/e/1FAIpQLSfwQMe1WZ-MApSwmU7x3afFZSFQdwQpXxHdR-lu49ZeZDW2MQ/viewform?usp=pp_url&entry.366340186=Arrays+-+var+italianFood+%3D+%5B%22pasta%22,+%22stromboli%22,+%22lasagna%22%5D&entry.366340186=Functions+-+var+toDoList+%3D+function+listTasksf()+%7B+tasks+%7D;&entry.366340186=Objects+-+var+favoriteFood+%3D+%7B+Italian:+%22stromboli%22,+Mexican:+%22tacos%22,+Greek:+%22gyros%22%7D;&entry.358902704=An+ordered+list&entry.721905468=Conditional&entry.251332896=Not+a+Conditional.&entry.2052234976=A+function&entry.216311171=Add+a+line+of++counter+%3D+counter+%2B1+inside+the+while+loop+to+fix+it)  |
 |      |                        | [Knowledge Check 1.3](https://docs.google.com/forms/d/1W0bZ5XugKmQrRMuA_eZ2y7eCF2PrKDBwSHAZsHJp9aU)  |
 |      |                        | [Knowledge Check 1.4](https://docs.google.com/forms/d/e/1FAIpQLSeaCxeBMx1ThEeciV1fasrzutUt4ZfuQWRfkgDuTJcQRjlUBA/viewform)  |
-|      |                        | [Coding Activity & Assignment](https://classroom.github.com/a/L1g8nYwS)       |
+|      |                        | [Coding Activity](https://classroom.github.com/a/zlJ-vhu8)       |
+|      |                        | [Coding Assignment]()       |
 |      |                        | [Additional Resources](./Additional%20Resources.pdf)  |
