@@ -6,5 +6,5 @@
 |      |                        | [Knowledge Check 1.3](https://docs.google.com/forms/d/1W0bZ5XugKmQrRMuA_eZ2y7eCF2PrKDBwSHAZsHJp9aU)  |
 |      |                        | [Knowledge Check 1.4](https://docs.google.com/forms/d/e/1FAIpQLSeaCxeBMx1ThEeciV1fasrzutUt4ZfuQWRfkgDuTJcQRjlUBA/viewform)  |
 |      |                        | [Coding Activity](https://classroom.github.com/a/zlJ-vhu8)       |
-|      |                        | [Coding Assignment]()       |
+|      |                        | [Coding Assignment](https://classroom.github.com/a/vvReArYF)       |
 |      |                        | [Additional Resources](./Additional%20Resources.pdf)  |
