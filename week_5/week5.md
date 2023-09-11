@@ -5,5 +5,5 @@
 |      |                                              | [Knowledge Check 5.1]()            |
 |      |                                              | [Knowledge Check 5.2]()            |
 |      |                                              | [Coding Activity]()                |
-|      |                                              | [Coding Assignment]                |
+|      |                                              | [Coding Assignment]()                |
 |      |                                              | [Additional Resources](./Additional%20Resources.pdf)           |
